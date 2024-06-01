@@ -255,11 +255,11 @@ lane_result[0:180, 0:320] = small_warped
 return result
 ```
 
-### **2.5 [Results](https://github.com/ChoiDoYeun/lane_detection_using_opencv/blob/main/notebook/2.4_main_pipeline.ipynb)**
+### **2.5 [Results](https://github.com/ChoiDoYeun/lane_detection_using_opencv/blob/main/output.mp4)**
 
 The system was tested on real driving conditions, and it successfully detected lane lines with high accuracy. The robustness of the approach is demonstrated through consistent performance across different scenarios.
 
-![result](https://github.com/ChoiDoYeun/lane_detection_using_opencv/blob/main/output.mp4)
+![result](https://github.com/ChoiDoYeun/lane_detection_using_opencv/blob/main/image_readme/2.5_result.png)
 
 ## **3. Discussion**
 
