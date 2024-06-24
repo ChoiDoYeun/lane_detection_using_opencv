@@ -1,8 +1,8 @@
 import numpy as np
 import cv2
 
-video_path ='D:/0_project/02_lanedetection/data/5.mp4'
-output_path = 'D:/0_project/02_lanedetection/output.mp4'
+video_path ='data/5.mp4'
+output_path = 'output.mp4'
 cap = cv2.VideoCapture(video_path)
 
 # Define the codec and create VideoWriter object
